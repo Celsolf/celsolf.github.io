@@ -1,0 +1,62 @@
+body{
+    background-color: lightblue;
+}
+
+h1 {
+    background-color: rgb(56, 233, 197);
+    font-family: arial;
+    color: white;
+   text-decoration: underline dashed;    
+}
+
+.nome{
+
+    background-color: lightblue;
+    text-align: center;
+    text-decoration: underline; 
+}
+
+a{
+    color:black;
+}
+
+h4{
+    
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(156, 12, 156);
+   text-decoration: underline;
+}
+
+a:hover{
+
+    color:red;
+}
+
+#final{
+    text-align: center;
+    background-color: rgb(56, 233, 197);
+
+}
+
+.Resumo{
+
+    font-style: oblique;
+}
+
+#foto{
+
+    text-align: center;
+}
+
+    p{
+        font-family: Arial, Helvetica, sans-serif;
+
+        color: rgb(156, 12, 156);
+    }
+
+
+    figcaption{
+
+        font-weight: bold
+           
+    }
